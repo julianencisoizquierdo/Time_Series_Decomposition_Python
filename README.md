@@ -11,9 +11,9 @@ I will be using the dataset `dataset_A.npy` and `dataset_B.npy`. It contains the
 
 
 ## Methodology
-First, I will separately construct each time series component.
-Then, I will bring the three components together to create a simulated time series dataset.
-Finally, I will leverage time series model decomposition in Python to deconstruct the series.
+- First, I will separately construct each time series component.
+- Then, I will bring the three components together to create a simulated time series dataset.
+- Finally, I will leverage time series model decomposition in Python to deconstruct the series.
 
 
 ## Usage
