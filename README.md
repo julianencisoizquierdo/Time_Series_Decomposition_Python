@@ -7,7 +7,7 @@
 The goal of this project is to better understand the three components of time series data and of additive and multiplicative models, as well as the ways in which this can be done more efficiently in Python.
 
 ## Instructions
-I will be using the dataset `dataset_A.npy` and `dataset_B.npy`. It contains the text of the tweet, as well as information about the days in which those tweets were written.
+I will be using the dataset `dataset_A.npy` and `dataset_B.npy`. They both contain time series data in a numpy array format. One of them is a multiplicative model, the other one is an additive one.
 
 
 ## Methodology
