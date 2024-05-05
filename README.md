@@ -18,7 +18,7 @@ Finally, I will leverage time series model decomposition in Python to deconstruc
 
 ## Usage
 
-To run the analysis, open the `NLP_BI_Airline_Industry.ipynb` notebook and execute each cell sequentially. Ensure that the required datasets are in the correct file paths.
+To run the analysis, open the `Decomoposition.ipynb` notebook and execute each cell sequentially. Ensure that the required datasets are in the correct file paths.
 
 
 ## Dependencies
